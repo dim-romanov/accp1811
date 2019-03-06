@@ -1,0 +1,24 @@
+{
+  "empl": [
+    {
+      "lang": "ru"
+    },
+    {
+      "user": {
+        "id": 5,
+        "name": "Ivan",
+        "age": 18,
+        "salary": 90000
+      }
+    },
+    {
+      "user": {
+        "id": 15,
+        "name": "Masha",
+        "age": 21,
+        "salary": 2154
+      }
+    }
+  ]
+}
+

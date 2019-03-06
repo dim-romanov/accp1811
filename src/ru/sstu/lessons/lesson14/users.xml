@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="style.css" ?>
+<empl>
+    <lang>en</lang>
+    <user>
+        <id>1</id>
+        <name>Ivan</name>
+        <age>18</age>
+        <salary>100000.8</salary>
+    </user>
+
+    <user>
+        <id>2</id>
+        <name>Мария</name>
+        <age>18</age>
+        <salary>200000.8</salary>
+    </user>
+
+    <user id="3">
+        <name>Мария</name>
+        <age>18</age>
+        <salary>200000.8</salary>
+        <documents>
+            <doc>
+                <id>1</id>
+                <number>416541</number>
+                <title>Паспорт</title>
+            </doc>
+            <doc>
+                <id>2</id>
+                <number>545</number>
+                <title>Заг. паспорт</title>
+            </doc>
+        </documents>
+    </user>
+
+    <user id="3" name="Мария" age="18" salary="20000.8">
+        <documents>
+            <doc>
+                <number>416541</number>
+                <title>Паспорт</title>
+            </doc>
+            <doc>
+                <number>545</number>
+                <title>Заг. паспорт</title>
+            </doc>
+        </documents>
+    </user>
+</empl>

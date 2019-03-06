@@ -1,0 +1,19 @@
+*{
+
+    display:block;
+    padding: 5px;
+}
+
+user{
+	border: 1px solid black;
+	margin: 10px;
+	transition: 1s all;
+}
+user:hover{
+	background: #aa1212;
+	color: white;
+}
+
+name{
+	font-size: 25px;
+}

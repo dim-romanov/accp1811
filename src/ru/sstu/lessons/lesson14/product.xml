@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+    <product>
+        <date>17.05.2012</date>
+        <title>Металлопрокат
+        </title>
+        <cunstomer>Завод инструментов</cunstomer>
+        <price>742 504 </price>
+    </product>
+    <product>
+        <date></date>
+        <title></title>
+        <cunstomer></cunstomer>
+        <price></price>
+    </product>
+    <product>
+        <date></date>
+        <title></title>
+        <cunstomer></cunstomer>
+        <price></price>
+    </product>
+</products>

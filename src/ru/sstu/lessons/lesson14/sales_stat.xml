@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stat>
+    <customer>Сатурн</customer>
+    <sales>
+        <sale>
+            <title>Металлопрокат</title>
+            <years>
+                <year y="2012" price="2 044 074,72"/>
+                <year y="2013" price=" 2 044 074,72"/>
+                <year y="2014" price=" 2 044 074,72"/>
+                <year y="2015" price=" 2 044 074,72"/>
+                <year y="2016" price=" 2 044 074,72"/>
+            </years>
+            <total_price value="12 001 605,91"/>
+        </sale>
+        <sale>
+            <title>Метизы</title>
+            <years>
+                <year y="2012" price="2 044 074,72"/>
+                <year y="2013" price="2 044 074,72"/>
+                <year y="2014" price="2 044 074,72"/>
+                <year y="2015" price="2 044 074,72"/>
+                <year y="2016" price="2 044 074,72"/>
+            </years>
+            <total_price value="12001605,91"/>
+        </sale>
+    </sales>
+    <stat_years total=" 18 812 936,30">
+        <year y="2012" price="2443881,37"/>
+        <year y="2013" price="2443881,37"/>
+        <year y="2014" price="2443881,37"/>
+        <year y="2015" price="2443881,37"/>
+        <year y="2016" price="2443881,37"/>
+        <year y="2017" price="2443881,37"/>
+    </stat_years>
+</stat>
