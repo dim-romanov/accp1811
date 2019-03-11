@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="empl" type="rootType"/>
+
+    <xs:complexType name="rootType">
+        <xs:sequence>
+            <xs:element name="lang" type="xs:string"></xs:element>
+            <xs:element name="user" minOccurs="0" maxOccurs="3" type="userInfo"/>
+            <xs:element name="manager" minOccurs="0" maxOccurs="3" type="userInfo"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="userInfo">
+        <xs:sequence>
+            <xs:element name="id" type="xs:integer"></xs:element>
+            <xs:element name="documents" minOccurs="0" type="docRoot"/>
+            <xs:element name="name" type="xs:string" maxOccurs="3"></xs:element>
+            <xs:element name="age" type="xs:integer"></xs:element>
+            <xs:element name="salary" type="xs:double" minOccurs="0"></xs:element>
+        </xs:sequence>
+        <xs:attribute name="datecreate" type="xs:date"/>
+    </xs:complexType>
+
+    <xs:complexType name="docRoot">
+        <xs:sequence>
+            <xs:element name="doc" minOccurs="1" maxOccurs="unbounded" type="docInfo"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="docInfo">
+        <xs:all>
+            <xs:element name="id" type="xs:integer"></xs:element>
+            <xs:element name="number" type="xs:string"/>
+            <xs:element name="title" type="xs:string"/>
+        </xs:all>
+    </xs:complexType>
+</xs:schema>

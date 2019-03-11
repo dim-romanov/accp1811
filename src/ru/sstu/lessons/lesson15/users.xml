@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="view.xsl" ?>
+<empl>
+    <lang>en</lang>
+    <user datecreate="2011-03-11">
+        <id>1</id>
+        <name>Ivan</name>
+        <age>18</age>
+        <salary>100000</salary>
+        <zip>410000</zip>
+    </user>
+
+    <user datecreate="2019-11-19">
+        <id>2</id>
+        <name>Мария</name>
+        <age>19</age>
+        <salary>2000</salary>
+    </user>
+
+    <user datecreate="2019-11-01">
+        <id>3</id>
+        <documents>
+            <doc>
+                <title>Паспорт</title>
+                <id>1</id>
+                <number>416541</number>
+            </doc>
+            <doc>
+                <id>2</id>
+                <number>545</number>
+                <title>Заг. паспорт</title>
+            </doc>
+        </documents>
+        <name>Мария</name>
+        <age>170</age>
+        <salary>200000</salary>
+    </user>
+
+    <!--<manager datecreate="2019-11-19">-->
+        <!--<id>20</id>-->
+        <!--<name>AA</name>-->
+        <!--<age>181</age>-->
+        <!--<salary>20022000.8</salary>-->
+    <!--</manager>-->
+
+    <!--<user id="3" name="Мария" age="18" salary="20000.8">-->
+        <!--<documents>-->
+            <!--<doc>-->
+                <!--<number>416541</number>-->
+                <!--<title>Паспорт</title>-->
+            <!--</doc>-->
+            <!--<doc>-->
+                <!--<number>545</number>-->
+                <!--<title>Заг. паспорт</title>-->
+            <!--</doc>-->
+        <!--</documents>-->
+    <!--</user>-->
+</empl>
+

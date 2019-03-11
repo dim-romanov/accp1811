@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<?xml-stylesheet type="text/xsl" href="CCX84_12122017.xslt"?>
+<?xml-stylesheet type="text/xsl" href="CCX84_12122017_EN.xslt"?>
+<MICEX_DOC  xsi:noNamespaceSchemaLocation="CCX84_10082015.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+	<DOC_REQUISITES/>
+	<CCX84 ReportDate="2018-01-12" ClearingFirmId="MB9023500000" ClearingFirmName="Иванов Иван">
+		<SETTLE ExtSettleCode="02950" SumValue="2647100678" LockValue="0" FreeValue="2647100678" SingleLimit="2647100678">
+			<RECORDS CurrencyId="BYN" CurrencyName="Белорусский рубль" CurrencyNameEN="Belorussian Rouble" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="0"/>
+			<RECORDS CurrencyId="HKD" CurrencyName="Гонконгский доллар" CurrencyNameEN="Hong Kong Dollar" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="7275036"/>
+			<RECORDS CurrencyId="USD" CurrencyName="Доллар США" CurrencyNameEN="US Dollar" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="59369900"/>
+			<RECORDS CurrencyId="EUR" CurrencyName="Евро" CurrencyNameEN="Euro" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="64431200"/>
+			<RECORDS CurrencyId="GLD" CurrencyName="Золото" CurrencyNameEN="gold" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="2342561300"/>
+			<RECORDS CurrencyId="KZT" CurrencyName="Казахстанский тенге" CurrencyNameEN="Kazakh Tenge" Quantity="1000000" LockQuantity="0" FreeQuantity="1000000" Value="0"/>
+			<RECORDS CurrencyId="CNY" CurrencyName="Китайский юань" CurrencyNameEN="China Yuan" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="8459342"/>
+			<RECORDS CurrencyId="RUB" CurrencyName="Российский рубль" CurrencyNameEN="Russian Rouble" Quantity="920000" LockQuantity="0" FreeQuantity="0" Value="920000"/>
+			<RECORDS CurrencyId="SLV" CurrencyName="Серебро" CurrencyNameEN="silver" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="28863300"/>
+			<RECORDS CurrencyId="UAH" CurrencyName="Украинская гривна" CurrencyNameEN="Ukrainian Hryvnia" Quantity="1000000" LockQuantity="0" FreeQuantity="1000000" Value="0"/>
+			<RECORDS CurrencyId="GBP" CurrencyName="Фунт стерлингов Великобритании" CurrencyNameEN="British Pound Sterling" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="78010400"/>
+			<RECORDS CurrencyId="CHF" CurrencyName="Швейцарский франк" CurrencyNameEN="Swiss Franc" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="57210200"/>
+		</SETTLE>
+		<SETTLE ExtSettleCode="02951" SumValue="2647180678" LockValue="0" FreeValue="2647180678" SingleLimit="2647180678">
+			<RECORDS CurrencyId="BYN" CurrencyName="Белорусский рубль" CurrencyNameEN="Belorussian Rouble" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="0"/>
+			<RECORDS CurrencyId="HKD" CurrencyName="Гонконгский доллар" CurrencyNameEN="Hong Kong Dollar" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="7275036"/>
+			<RECORDS CurrencyId="USD" CurrencyName="Доллар США" CurrencyNameEN="US Dollar" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="59369900"/>
+			<RECORDS CurrencyId="EUR" CurrencyName="Евро" CurrencyNameEN="Euro" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="64431200"/>
+			<RECORDS CurrencyId="GLD" CurrencyName="Золото" CurrencyNameEN="gold" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="2342561300"/>
+			<RECORDS CurrencyId="KZT" CurrencyName="Казахстанский тенге" CurrencyNameEN="Kazakh Tenge" Quantity="1000000" LockQuantity="0" FreeQuantity="1000000" Value="0"/>
+			<RECORDS CurrencyId="CNY" CurrencyName="Китайский юань" CurrencyNameEN="China Yuan" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="8459342"/>
+			<RECORDS CurrencyId="RUB" CurrencyName="Российский рубль" CurrencyNameEN="Russian Rouble" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="1000000"/>
+			<RECORDS CurrencyId="SLV" CurrencyName="Серебро" CurrencyNameEN="silver" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="28863300"/>
+			<RECORDS CurrencyId="UAH" CurrencyName="Украинская гривна" CurrencyNameEN="Ukrainian Hryvnia" Quantity="1000000" LockQuantity="0" FreeQuantity="1000000" Value="0"/>
+			<RECORDS CurrencyId="GBP" CurrencyName="Фунт стерлингов Великобритании" CurrencyNameEN="British Pound Sterling" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="78010400"/>
+			<RECORDS CurrencyId="CHF" CurrencyName="Швейцарский франк" CurrencyNameEN="Swiss Franc" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="57210200"/>
+		</SETTLE>
+		<SETTLE ExtSettleCode="02952" SumValue="2647180678" LockValue="0" FreeValue="2647180678" SingleLimit="2647180678">
+			<RECORDS CurrencyId="BYN" CurrencyName="Белорусский рубль" CurrencyNameEN="Belorussian Rouble" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="0"/>
+			<RECORDS CurrencyId="HKD" CurrencyName="Гонконгский доллар" CurrencyNameEN="Hong Kong Dollar" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="7275036"/>
+			<RECORDS CurrencyId="USD" CurrencyName="Доллар США" CurrencyNameEN="US Dollar" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="59369900"/>
+			<RECORDS CurrencyId="EUR" CurrencyName="Евро" CurrencyNameEN="Euro" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="64431200"/>
+			<RECORDS CurrencyId="GLD" CurrencyName="Золото" CurrencyNameEN="gold" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="2342561300"/>
+			<RECORDS CurrencyId="KZT" CurrencyName="Казахстанский тенге" CurrencyNameEN="Kazakh Tenge" Quantity="1000000" LockQuantity="0" FreeQuantity="1000000" Value="0"/>
+			<RECORDS CurrencyId="CNY" CurrencyName="Китайский юань" CurrencyNameEN="China Yuan" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="8459342"/>
+			<RECORDS CurrencyId="RUB" CurrencyName="Российский рубль" CurrencyNameEN="Russian Rouble" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="1000000"/>
+			<RECORDS CurrencyId="SLV" CurrencyName="Серебро" CurrencyNameEN="silver" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="28863300"/>
+			<RECORDS CurrencyId="UAH" CurrencyName="Украинская гривна" CurrencyNameEN="Ukrainian Hryvnia" Quantity="1000000" LockQuantity="0" FreeQuantity="1000000" Value="0"/>
+			<RECORDS CurrencyId="GBP" CurrencyName="Фунт стерлингов Великобритании" CurrencyNameEN="British Pound Sterling" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="78010400"/>
+			<RECORDS CurrencyId="CHF" CurrencyName="Швейцарский франк" CurrencyNameEN="Swiss Franc" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="57210200"/>
+		</SETTLE>
+		<SETTLE ExtSettleCode="02953" SumValue="2647180678" LockValue="0" FreeValue="2647180678" SingleLimit="2647180678">
+			<RECORDS CurrencyId="BYN" CurrencyName="Белорусский рубль" CurrencyNameEN="Belorussian Rouble" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="0"/>
+			<RECORDS CurrencyId="HKD" CurrencyName="Гонконгский доллар" CurrencyNameEN="Hong Kong Dollar" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="7275036"/>
+			<RECORDS CurrencyId="USD" CurrencyName="Доллар США" CurrencyNameEN="US Dollar" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="59369900"/>
+			<RECORDS CurrencyId="EUR" CurrencyName="Евро" CurrencyNameEN="Euro" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="64431200"/>
+			<RECORDS CurrencyId="GLD" CurrencyName="Золото" CurrencyNameEN="gold" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="2342561300"/>
+			<RECORDS CurrencyId="KZT" CurrencyName="Казахстанский тенге" CurrencyNameEN="Kazakh Tenge" Quantity="1000000" LockQuantity="0" FreeQuantity="1000000" Value="0"/>
+			<RECORDS CurrencyId="CNY" CurrencyName="Китайский юань" CurrencyNameEN="China Yuan" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="8459342"/>
+			<RECORDS CurrencyId="RUB" CurrencyName="Российский рубль" CurrencyNameEN="Russian Rouble" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="1000000"/>
+			<RECORDS CurrencyId="SLV" CurrencyName="Серебро" CurrencyNameEN="silver" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="28863300"/>
+			<RECORDS CurrencyId="UAH" CurrencyName="Украинская гривна" CurrencyNameEN="Ukrainian Hryvnia" Quantity="1000000" LockQuantity="0" FreeQuantity="1000000" Value="0"/>
+			<RECORDS CurrencyId="GBP" CurrencyName="Фунт стерлингов Великобритании" CurrencyNameEN="British Pound Sterling" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="78010400"/>
+			<RECORDS CurrencyId="CHF" CurrencyName="Швейцарский франк" CurrencyNameEN="Swiss Franc" Quantity="1000000" LockQuantity="0" FreeQuantity="0" Value="57210200"/>
+		</SETTLE>
+	</CCX84>
+</MICEX_DOC>

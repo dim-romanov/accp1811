@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="empl">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="lang" type="xs:string"></xs:element>
+                <xs:element name="user" minOccurs="0" maxOccurs="3">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="id" type="xs:integer"></xs:element>
+                            <xs:element name="documents" minOccurs="0">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="doc" minOccurs="1" maxOccurs="unbounded">
+                                            <xs:complexType>
+                                                <xs:all>
+                                                   <xs:element name="id" type="xs:integer"></xs:element>
+                                                    <xs:element name="number" type="xs:string"/>
+                                                    <xs:element name="title" type="xs:string"/>
+                                                </xs:all>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="name" type="xs:string" maxOccurs="3"></xs:element>
+                            <xs:element name="age" type="xs:integer"></xs:element>
+                            <xs:element name="salary" type="xs:double" minOccurs="0"></xs:element>
+                            <xs:element name="zip" minOccurs="0">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:token">
+                                        <xs:pattern value="\d{6}"></xs:pattern>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="datecreate" type="xs:date"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

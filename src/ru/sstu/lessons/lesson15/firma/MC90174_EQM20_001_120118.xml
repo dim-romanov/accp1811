@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<?xml-stylesheet type="text/xsl" href="EQM20_12122017.xslt"?>
+<?xml-stylesheet type="text/xsl" href="ftp://ftp.moex.com/pub/Reports/Equities/XSLT/EQM20_12122017.xslt"?>
+<MICEX_DOC xsi:noNamespaceSchemaLocation="C:\MICEX\XSD\EQM20_01112017.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<DOC_REQUISITES/>
+	<EQM20 ReportDate="2018-01-12" Weekday="Пятница" MainFirmId="MC9017400000" FirmName="ИвановИИ" FirmType="Кредитная">
+		<FIRM FirmID="MC9017400000">
+			<INFO InfoType="B">
+				<BANKACC BankAccId="31006" BankAccType="D" FullCoveredBuy="N" BankAccPoolType="N" BankAccUnifiedPool="N">
+					<TRDACC>
+						<RECORDS CurrencyId="CNY" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="30403830900103A00383" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="EUR" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="30403830900103A00383" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="GBP" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="30403830900103A00383" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="RUR" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="30403830900103A00383" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="USD" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="30403830900103A00383" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="EUR" ClearingCenterId="NCC" ClearingCenterName="НКЦ" RealAccount="31006" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="RUR" ClearingCenterId="NCC" ClearingCenterName="НКЦ" RealAccount="31006" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="USD" ClearingCenterId="NCC" ClearingCenterName="НКЦ" RealAccount="31006" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+					</TRDACC>
+				</BANKACC>
+				<BANKACC BankAccId="31007" BankAccType="L" FullCoveredBuy="N" BankAccPoolType="N" BankAccUnifiedPool="N">
+					<TRDACC>
+						<RECORDS CurrencyId="CNY" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="30403830500103A00856" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="EUR" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="30403830500103A00856" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="GBP" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="30403830500103A00856" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="RUR" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="30403830500103A00856" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="USD" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="30403830500103A00856" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="EUR" ClearingCenterId="NCC" ClearingCenterName="НКЦ" RealAccount="31007" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="RUR" ClearingCenterId="NCC" ClearingCenterName="НКЦ" RealAccount="31007" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="USD" ClearingCenterId="NCC" ClearingCenterName="НКЦ" RealAccount="31007" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+					</TRDACC>
+				</BANKACC>
+				<BANKACC BankAccId="31008" BankAccType="L" FullCoveredBuy="N" BankAccPoolType="N" BankAccUnifiedPool="N">
+					<TRDACC>
+						<RECORDS CurrencyId="CNY" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="30403830500103A00857" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="EUR" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="30403830500103A00857" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="GBP" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="30403830500103A00857" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="RUR" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="30403830500103A00857" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="USD" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="30403830500103A00857" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="EUR" ClearingCenterId="NCC" ClearingCenterName="НКЦ" RealAccount="31008" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="RUR" ClearingCenterId="NCC" ClearingCenterName="НКЦ" RealAccount="31008" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="USD" ClearingCenterId="NCC" ClearingCenterName="НКЦ" RealAccount="31008" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+					</TRDACC>
+				</BANKACC>
+				<BANKACC BankAccId="34628" BankAccType="S" FullCoveredBuy="N" BankAccPoolType="N" BankAccUnifiedPool="N">
+					<TRDACC>
+						<RECORDS CurrencyId="RUR" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="34628" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="Y" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="CNY" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="34628" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="Y" TaxPaymentAcc="Y" DataChanged="Y"/>
+						<RECORDS CurrencyId="EUR" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="34628" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="Y" TaxPaymentAcc="Y" DataChanged="Y"/>
+						<RECORDS CurrencyId="GBP" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="34628" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="Y" TaxPaymentAcc="Y" DataChanged="Y"/>
+						<RECORDS CurrencyId="USD" ClearingCenterId="NSD" ClearingCenterName="НРД" RealAccount="34628" TransferSettleRUR="N" TransferNettoRUR="N" CommPaymentAcc="Y" TaxPaymentAcc="Y" DataChanged="Y"/>
+						<RECORDS CurrencyId="EUR" ClearingCenterId="NCC" ClearingCenterName="НКЦ" RealAccount="34628" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="RUR" ClearingCenterId="NCC" ClearingCenterName="НКЦ" RealAccount="34628" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+						<RECORDS CurrencyId="USD" ClearingCenterId="NCC" ClearingCenterName="НКЦ" RealAccount="34628" CommPaymentAcc="N" TaxPaymentAcc="N" DataChanged="Y"/>
+					</TRDACC>
+				</BANKACC>
+			</INFO>
+			<INFO InfoType="T">
+				<BANKACC BankAccId="31006" BankAccPoolType="N">
+					<TRDACC TrdAccDeposit="N">
+						<RECORDS TrdAccId="D01+00001F00" TrdAccName="Счет довер. управления 1" TrdAccStatus="A" DepAccId="MHD000018829" DepUnitId="36MC9017400002F00" ReturnSettleSecurity="N" FullCoveredSell="N" DisableREPO="N" UnifiedPoolTrdAcc="N" DataChanged="N"/>
+						<RECORDS TrdAccId="D01-00001F00" TrdAccName="Счет довер. управления 1" TrdAccStatus="A" DepAccId="MHD000018829" DepUnitId="31MC9017400002F00" P_Type="1" TransferSettleSecurity="N" TransferNettoSecurity="N" FullCoveredSell="N" UnifiedPoolTrdAcc="N" DataChanged="N"/>
+						<RECORDS TrdAccId="NCC+00031006" TrdAccName="Технический счет - переводы" TrdAccStatus="A" ReturnSettleSecurity="N" FullCoveredSell="N" DisableREPO="N" UnifiedPoolTrdAcc="N" DataChanged="N"/>
+						<RECORDS TrdAccId="NSD-00031006" TrdAccName="Технический счет - переводы" TrdAccStatus="A" P_Type="1" TransferSettleSecurity="N" TransferNettoSecurity="N" FullCoveredSell="N" UnifiedPoolTrdAcc="N" DataChanged="N"/>
+					</TRDACC>
+				</BANKACC>
+				<BANKACC BankAccId="31007" BankAccPoolType="N">
+					<TRDACC TrdAccDeposit="N">
+						<RECORDS TrdAccId="L01+00001F00" TrdAccName="Клиентский счет 1" TrdAccStatus="A" DepAccId="MHL000018831" DepUnitId="36MC9017400004F00" ReturnSettleSecurity="N" FullCoveredSell="N" DisableREPO="N" UnifiedPoolTrdAcc="N" DataChanged="N"/>
+						<RECORDS TrdAccId="L01-00001F00" TrdAccName="Клиентский счет 1" TrdAccStatus="A" DepAccId="MHL000018831" DepUnitId="31MC9017400004F00" P_Type="1" TransferSettleSecurity="N" TransferNettoSecurity="N" FullCoveredSell="N" UnifiedPoolTrdAcc="N" DataChanged="N"/>
+						<RECORDS TrdAccId="NCC+00031007" TrdAccName="Технический счет - переводы" TrdAccStatus="A" ReturnSettleSecurity="N" FullCoveredSell="N" DisableREPO="N" UnifiedPoolTrdAcc="N" DataChanged="N"/>
+						<RECORDS TrdAccId="NSD-00031007" TrdAccName="Технический счет - переводы" TrdAccStatus="A" P_Type="1" TransferSettleSecurity="N" TransferNettoSecurity="N" FullCoveredSell="N" UnifiedPoolTrdAcc="N" DataChanged="N"/>
+					</TRDACC>
+				</BANKACC>
+				<BANKACC BankAccId="31008" BankAccPoolType="N">
+					<TRDACC TrdAccDeposit="N">
+						<RECORDS TrdAccId="L01+00002F00" TrdAccName="Клиентский счет 2" TrdAccStatus="A" DepAccId="MHL000018833" DepUnitId="36MC9017400006F00" ReturnSettleSecurity="N" FullCoveredSell="N" DisableREPO="N" UnifiedPoolTrdAcc="N" DataChanged="N"/>
+						<RECORDS TrdAccId="L01-00002F00" TrdAccName="Клиентский счет 2" TrdAccStatus="A" DepAccId="MHL000018833" DepUnitId="31MC9017400006F00" P_Type="1" TransferSettleSecurity="N" TransferNettoSecurity="N" FullCoveredSell="N" UnifiedPoolTrdAcc="N" DataChanged="N"/>
+						<RECORDS TrdAccId="NCC+00031008" TrdAccName="Технический счет - переводы" TrdAccStatus="A" ReturnSettleSecurity="N" FullCoveredSell="N" DisableREPO="N" UnifiedPoolTrdAcc="N" DataChanged="N"/>
+						<RECORDS TrdAccId="NSD-00031008" TrdAccName="Технический счет - переводы" TrdAccStatus="A" P_Type="1" TransferSettleSecurity="N" TransferNettoSecurity="N" FullCoveredSell="N" UnifiedPoolTrdAcc="N" DataChanged="N"/>
+					</TRDACC>
+				</BANKACC>
+				<BANKACC BankAccId="34628" BankAccPoolType="N">
+					<TRDACC TrdAccDeposit="N">
+						<RECORDS TrdAccId="NCC+00034628" TrdAccName="Технический счет - переводы" TrdAccStatus="A" ReturnSettleSecurity="N" FullCoveredSell="N" DisableREPO="N" UnifiedPoolTrdAcc="N" DataChanged="N"/>
+						<RECORDS TrdAccId="NSD-00034628" TrdAccName="Технический счет - переводы" TrdAccStatus="A" P_Type="1" TransferSettleSecurity="N" TransferNettoSecurity="N" FullCoveredSell="N" UnifiedPoolTrdAcc="N" DataChanged="N"/>
+						<RECORDS TrdAccId="S01+00001F00" TrdAccName="Собственный счет 1" TrdAccStatus="A" DepAccId="MHS000018827" DepUnitId="36MC9017400000F00" ReturnSettleSecurity="N" FullCoveredSell="N" DisableREPO="N" UnifiedPoolTrdAcc="N" DataChanged="N"/>
+						<RECORDS TrdAccId="S01-00001F00" TrdAccName="Собственный счет 1" TrdAccStatus="A" DepAccId="MHS000018827" DepUnitId="31MC9017400000F00" P_Type="1" TransferSettleSecurity="N" TransferNettoSecurity="N" FullCoveredSell="N" UnifiedPoolTrdAcc="N" DataChanged="N"/>
+					</TRDACC>
+				</BANKACC>
+			</INFO>
+		</FIRM>
+	</EQM20>
+</MICEX_DOC>
